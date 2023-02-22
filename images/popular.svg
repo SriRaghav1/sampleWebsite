@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 50 50" width="50px" height="50px"><path d="M 37 48 C 36.824219 48 36.652344 47.953125 36.496094 47.863281 L 25 41.15625 L 13.503906 47.863281 C 13.195313 48.042969 12.8125 48.046875 12.503906 47.867188 C 12.191406 47.6875 12 47.359375 12 47 L 12 3 C 12 2.449219 12.449219 2 13 2 L 37 2 C 37.554688 2 38 2.449219 38 3 L 38 47 C 38 47.359375 37.808594 47.6875 37.496094 47.867188 C 37.34375 47.957031 37.171875 48 37 48 Z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 87.8">
+  <path fill="#1e0f6d" d="M0 4.7h35L30.3 0H5.1L0 4.7z" data-name="Layer 2"/>
+  <g data-name="Layer 1">
+    <path fill="#1b0760" d="M5.3.2v87l11.9-11.9 12.5 12.5V.2H5.3z"/>
+    <text transform="rotate(90 1.05 12.25)" font-size="15" fill="#fff" font-family="Inter-Bold,Inter" font-weight="700">
+      <tspan letter-spacing="-.01em">P</tspan><tspan x="9.6" y="0">opular</tspan>
+    </text>
+  </g>
+</svg>
