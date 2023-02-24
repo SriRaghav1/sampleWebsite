@@ -596,6 +596,17 @@ a {
     color: #fff;
     left:2rem;
     right:3rem;
+    top:600rem;
+  }
+}
+
+@media screen and (min-width:1024px){
+  .callout--primary {
+    position:absolute;
+    background-color: var(--color-primary);
+    color: #fff;
+    left:2rem;
+    right:3rem;
     top:485rem;
   }
 }
@@ -841,7 +852,6 @@ a {
 }
 
 /* Footer */
-
 .footer {
   background: #232323;
 }
